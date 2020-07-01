@@ -1,0 +1,562 @@
+26. July 2010 | 12:46:47 | Current JunkBuster configuration:
+26. July 2010 | 12:46:47 | - WeaponHack = 1
+26. July 2010 | 12:46:47 | - MoneyHack = 1
+26. July 2010 | 12:46:47 | - Jetpack = 1
+26. July 2010 | 12:46:47 | - HealthHack = 1
+26. July 2010 | 12:46:47 | - ArmourHack = 1
+26. July 2010 | 12:46:47 | - DriveBy = 1
+26. July 2010 | 12:46:47 | - Spam = 0
+26. July 2010 | 12:46:47 | - CommandSpam = 0
+26. July 2010 | 12:46:47 | - BadWords = 0
+26. July 2010 | 12:46:47 | - CarJackHack = 1
+26. July 2010 | 12:46:47 | - TeleportHack = 1
+26. July 2010 | 12:46:47 | - MaxPing = 500
+26. July 2010 | 12:46:47 | - SpectateHack = 0
+26. July 2010 | 12:46:47 | - Blacklist = 1
+26. July 2010 | 12:46:47 | - IpBans = 1
+26. July 2010 | 12:46:47 | - TempBans = 1
+26. July 2010 | 12:46:47 | - SpawnKill = 3
+26. July 2010 | 12:46:47 | - CapsLock = 0
+26. July 2010 | 12:46:47 | - 3DSpeed = 0
+26. July 2010 | 12:46:47 | - MaxSpeed = 220
+26. July 2010 | 12:46:47 | - AdminImmunity = 1
+26. July 2010 | 12:46:47 | - Advertisement = 1
+26. July 2010 | 12:46:47 | - FreezeUpdate = 0
+26. July 2010 | 12:46:47 | - SpawnTime = 10
+26. July 2010 | 12:46:47 | - CheckpointTeleport = 1
+26. July 2010 | 12:46:47 | - Airbreak = 1
+26. July 2010 | 12:46:47 | - TankMode = 1
+26. July 2010 | 12:46:47 | - WarnPlayers = 0
+26. July 2010 | 12:46:47 | 1 IP-bans have been loaded.
+26. July 2010 | 12:46:47 | 1 temporary bans have been loaded.
+26. July 2010 | 12:46:47 | 5 whitelist entries have been loaded.
+26. July 2010 | 12:46:47 | 4 blacklist entries have been loaded.
+26. July 2010 | 12:46:47 | 41 bad words have been loaded.
+26. July 2010 | 12:46:47 | 4 forbidden weapons have been loaded.
+26. July 2010 | 12:46:47 | JunkBuster has been configurated.
+26. July 2010 | 12:46:47 | JunkBuster has successfully been loaded.
+26. July 2010 | 12:49:03 | Suspected player with speedhack: Markus (3), 318 KM/H with Moonbeam.
+26. July 2010 | 12:49:07 | Suspected player with speedhack: Markus (3), 318 KM/H with Moonbeam.
+26. July 2010 | 12:49:42 | Suspected player with teleport cheats: Markus (3), Jefferson.
+26. July 2010 | 12:49:47 | Suspected player with airbreak: Markus (3), height: 72.15, ~672 KM/H, vehicle: Moonbeam.
+26. July 2010 | 12:52:57 | Current JunkBuster configuration:
+26. July 2010 | 12:52:57 | - WeaponHack = 1
+26. July 2010 | 12:52:57 | - MoneyHack = 1
+26. July 2010 | 12:52:57 | - Jetpack = 1
+26. July 2010 | 12:52:57 | - HealthHack = 1
+26. July 2010 | 12:52:57 | - ArmourHack = 1
+26. July 2010 | 12:52:57 | - DriveBy = 1
+26. July 2010 | 12:52:57 | - Spam = 0
+26. July 2010 | 12:52:57 | - CommandSpam = 0
+26. July 2010 | 12:52:57 | - BadWords = 0
+26. July 2010 | 12:52:57 | - CarJackHack = 1
+26. July 2010 | 12:52:57 | - TeleportHack = 1
+26. July 2010 | 12:52:57 | - MaxPing = 500
+26. July 2010 | 12:52:57 | - SpectateHack = 0
+26. July 2010 | 12:52:57 | - Blacklist = 1
+26. July 2010 | 12:52:57 | - IpBans = 1
+26. July 2010 | 12:52:57 | - TempBans = 1
+26. July 2010 | 12:52:57 | - SpawnKill = 3
+26. July 2010 | 12:52:57 | - CapsLock = 0
+26. July 2010 | 12:52:57 | - 3DSpeed = 0
+26. July 2010 | 12:52:57 | - MaxSpeed = 220
+26. July 2010 | 12:52:57 | - AdminImmunity = 1
+26. July 2010 | 12:52:57 | - Advertisement = 1
+26. July 2010 | 12:52:57 | - FreezeUpdate = 0
+26. July 2010 | 12:52:57 | - SpawnTime = 10
+26. July 2010 | 12:52:57 | - CheckpointTeleport = 1
+26. July 2010 | 12:52:57 | - Airbreak = 1
+26. July 2010 | 12:52:57 | - TankMode = 1
+26. July 2010 | 12:52:57 | - WarnPlayers = 0
+26. July 2010 | 12:52:57 | 1 IP-bans have been loaded.
+26. July 2010 | 12:52:57 | 1 temporary bans have been loaded.
+26. July 2010 | 12:52:57 | 5 whitelist entries have been loaded.
+26. July 2010 | 12:52:57 | 4 blacklist entries have been loaded.
+26. July 2010 | 12:52:57 | 41 bad words have been loaded.
+26. July 2010 | 12:52:57 | 4 forbidden weapons have been loaded.
+26. July 2010 | 12:52:57 | JunkBuster has been configurated.
+26. July 2010 | 12:52:57 | JunkBuster has successfully been loaded.
+26. July 2010 | 13:12:07 | Current JunkBuster configuration:
+26. July 2010 | 13:12:07 | - WeaponHack = 1
+26. July 2010 | 13:12:07 | - MoneyHack = 1
+26. July 2010 | 13:12:07 | - Jetpack = 1
+26. July 2010 | 13:12:07 | - HealthHack = 1
+26. July 2010 | 13:12:07 | - ArmourHack = 1
+26. July 2010 | 13:12:08 | - DriveBy = 1
+26. July 2010 | 13:12:08 | - Spam = 0
+26. July 2010 | 13:12:08 | - CommandSpam = 0
+26. July 2010 | 13:12:08 | - BadWords = 0
+26. July 2010 | 13:12:08 | - CarJackHack = 1
+26. July 2010 | 13:12:08 | - TeleportHack = 1
+26. July 2010 | 13:12:08 | - MaxPing = 500
+26. July 2010 | 13:12:08 | - SpectateHack = 0
+26. July 2010 | 13:12:08 | - Blacklist = 1
+26. July 2010 | 13:12:08 | - IpBans = 1
+26. July 2010 | 13:12:08 | - TempBans = 1
+26. July 2010 | 13:12:08 | - SpawnKill = 3
+26. July 2010 | 13:12:08 | - CapsLock = 0
+26. July 2010 | 13:12:08 | - 3DSpeed = 0
+26. July 2010 | 13:12:08 | - MaxSpeed = 220
+26. July 2010 | 13:12:08 | - AdminImmunity = 1
+26. July 2010 | 13:12:08 | - Advertisement = 1
+26. July 2010 | 13:12:08 | - FreezeUpdate = 0
+26. July 2010 | 13:12:08 | - SpawnTime = 10
+26. July 2010 | 13:12:08 | - CheckpointTeleport = 1
+26. July 2010 | 13:12:08 | - Airbreak = 1
+26. July 2010 | 13:12:08 | - TankMode = 1
+26. July 2010 | 13:12:08 | - WarnPlayers = 0
+26. July 2010 | 13:12:08 | 1 IP-bans have been loaded.
+26. July 2010 | 13:12:08 | 1 temporary bans have been loaded.
+26. July 2010 | 13:12:08 | 5 whitelist entries have been loaded.
+26. July 2010 | 13:12:08 | 4 blacklist entries have been loaded.
+26. July 2010 | 13:12:08 | 41 bad words have been loaded.
+26. July 2010 | 13:12:08 | 4 forbidden weapons have been loaded.
+26. July 2010 | 13:12:08 | JunkBuster has been configurated.
+26. July 2010 | 13:12:08 | JunkBuster has successfully been loaded.
+26. July 2010 | 13:20:07 | Current JunkBuster configuration:
+26. July 2010 | 13:20:07 | - WeaponHack = 1
+26. July 2010 | 13:20:07 | - MoneyHack = 1
+26. July 2010 | 13:20:07 | - Jetpack = 1
+26. July 2010 | 13:20:07 | - HealthHack = 1
+26. July 2010 | 13:20:07 | - ArmourHack = 1
+26. July 2010 | 13:20:07 | - DriveBy = 1
+26. July 2010 | 13:20:07 | - Spam = 0
+26. July 2010 | 13:20:07 | - CommandSpam = 0
+26. July 2010 | 13:20:07 | - BadWords = 0
+26. July 2010 | 13:20:07 | - CarJackHack = 1
+26. July 2010 | 13:20:07 | - TeleportHack = 1
+26. July 2010 | 13:20:07 | - MaxPing = 500
+26. July 2010 | 13:20:07 | - SpectateHack = 0
+26. July 2010 | 13:20:07 | - Blacklist = 1
+26. July 2010 | 13:20:07 | - IpBans = 1
+26. July 2010 | 13:20:07 | - TempBans = 1
+26. July 2010 | 13:20:07 | - SpawnKill = 3
+26. July 2010 | 13:20:07 | - CapsLock = 0
+26. July 2010 | 13:20:07 | - 3DSpeed = 0
+26. July 2010 | 13:20:07 | - MaxSpeed = 220
+26. July 2010 | 13:20:07 | - AdminImmunity = 1
+26. July 2010 | 13:20:07 | - Advertisement = 1
+26. July 2010 | 13:20:07 | - FreezeUpdate = 0
+26. July 2010 | 13:20:07 | - SpawnTime = 10
+26. July 2010 | 13:20:07 | - CheckpointTeleport = 1
+26. July 2010 | 13:20:07 | - Airbreak = 1
+26. July 2010 | 13:20:07 | - TankMode = 1
+26. July 2010 | 13:20:07 | - WarnPlayers = 0
+26. July 2010 | 13:20:07 | 1 IP-bans have been loaded.
+26. July 2010 | 13:20:07 | 1 temporary bans have been loaded.
+26. July 2010 | 13:20:07 | 5 whitelist entries have been loaded.
+26. July 2010 | 13:20:07 | 4 blacklist entries have been loaded.
+26. July 2010 | 13:20:07 | 41 bad words have been loaded.
+26. July 2010 | 13:20:07 | 4 forbidden weapons have been loaded.
+26. July 2010 | 13:20:07 | JunkBuster has been configurated.
+26. July 2010 | 13:20:07 | JunkBuster has successfully been loaded.
+26. July 2010 | 13:23:09 | Current JunkBuster configuration:
+26. July 2010 | 13:23:09 | - WeaponHack = 1
+26. July 2010 | 13:23:09 | - MoneyHack = 1
+26. July 2010 | 13:23:09 | - Jetpack = 1
+26. July 2010 | 13:23:09 | - HealthHack = 1
+26. July 2010 | 13:23:09 | - ArmourHack = 1
+26. July 2010 | 13:23:09 | - DriveBy = 1
+26. July 2010 | 13:23:09 | - Spam = 0
+26. July 2010 | 13:23:09 | - CommandSpam = 0
+26. July 2010 | 13:23:09 | - BadWords = 0
+26. July 2010 | 13:23:09 | - CarJackHack = 1
+26. July 2010 | 13:23:09 | - TeleportHack = 1
+26. July 2010 | 13:23:09 | - MaxPing = 500
+26. July 2010 | 13:23:09 | - SpectateHack = 0
+26. July 2010 | 13:23:09 | - Blacklist = 1
+26. July 2010 | 13:23:09 | - IpBans = 1
+26. July 2010 | 13:23:09 | - TempBans = 1
+26. July 2010 | 13:23:09 | - SpawnKill = 3
+26. July 2010 | 13:23:09 | - CapsLock = 0
+26. July 2010 | 13:23:09 | - 3DSpeed = 0
+26. July 2010 | 13:23:09 | - MaxSpeed = 220
+26. July 2010 | 13:23:09 | - AdminImmunity = 1
+26. July 2010 | 13:23:09 | - Advertisement = 1
+26. July 2010 | 13:23:09 | - FreezeUpdate = 0
+26. July 2010 | 13:23:09 | - SpawnTime = 10
+26. July 2010 | 13:23:09 | - CheckpointTeleport = 1
+26. July 2010 | 13:23:09 | - Airbreak = 1
+26. July 2010 | 13:23:09 | - TankMode = 1
+26. July 2010 | 13:23:09 | - WarnPlayers = 0
+26. July 2010 | 13:23:09 | 1 IP-bans have been loaded.
+26. July 2010 | 13:23:09 | 1 temporary bans have been loaded.
+26. July 2010 | 13:23:09 | 5 whitelist entries have been loaded.
+26. July 2010 | 13:23:09 | 4 blacklist entries have been loaded.
+26. July 2010 | 13:23:09 | 41 bad words have been loaded.
+26. July 2010 | 13:23:09 | 4 forbidden weapons have been loaded.
+26. July 2010 | 13:23:09 | JunkBuster has been configurated.
+26. July 2010 | 13:23:09 | JunkBuster has successfully been loaded.
+28. July 2010 | 18:38:18 | Current JunkBuster configuration:
+28. July 2010 | 18:38:18 | - WeaponHack = 1
+28. July 2010 | 18:38:18 | - MoneyHack = 1
+28. July 2010 | 18:38:18 | - Jetpack = 1
+28. July 2010 | 18:38:18 | - HealthHack = 1
+28. July 2010 | 18:38:18 | - ArmourHack = 1
+28. July 2010 | 18:38:18 | - DriveBy = 1
+28. July 2010 | 18:38:18 | - Spam = 0
+28. July 2010 | 18:38:18 | - CommandSpam = 0
+28. July 2010 | 18:38:18 | - BadWords = 0
+28. July 2010 | 18:38:18 | - CarJackHack = 1
+28. July 2010 | 18:38:18 | - TeleportHack = 1
+28. July 2010 | 18:38:18 | - MaxPing = 500
+28. July 2010 | 18:38:18 | - SpectateHack = 0
+28. July 2010 | 18:38:18 | - Blacklist = 1
+28. July 2010 | 18:38:18 | - IpBans = 1
+28. July 2010 | 18:38:18 | - TempBans = 1
+28. July 2010 | 18:38:18 | - SpawnKill = 3
+28. July 2010 | 18:38:18 | - CapsLock = 0
+28. July 2010 | 18:38:18 | - 3DSpeed = 0
+28. July 2010 | 18:38:18 | - MaxSpeed = 220
+28. July 2010 | 18:38:18 | - AdminImmunity = 1
+28. July 2010 | 18:38:18 | - Advertisement = 1
+28. July 2010 | 18:38:18 | - FreezeUpdate = 0
+28. July 2010 | 18:38:18 | - SpawnTime = 10
+28. July 2010 | 18:38:18 | - CheckpointTeleport = 1
+28. July 2010 | 18:38:18 | - Airbreak = 1
+28. July 2010 | 18:38:18 | - TankMode = 1
+28. July 2010 | 18:38:18 | - WarnPlayers = 0
+28. July 2010 | 18:38:18 | 1 IP-bans have been loaded.
+28. July 2010 | 18:38:18 | 1 temporary bans have been loaded.
+28. July 2010 | 18:38:18 | 5 whitelist entries have been loaded.
+28. July 2010 | 18:38:18 | 4 blacklist entries have been loaded.
+28. July 2010 | 18:38:18 | 41 bad words have been loaded.
+28. July 2010 | 18:38:18 | 4 forbidden weapons have been loaded.
+28. July 2010 | 18:38:18 | JunkBuster has been configurated.
+28. July 2010 | 18:38:18 | JunkBuster has successfully been loaded.
+30. July 2010 | 19:19:23 | Current JunkBuster configuration:
+30. July 2010 | 19:19:23 | - WeaponHack = 1
+30. July 2010 | 19:19:23 | - MoneyHack = 1
+30. July 2010 | 19:19:23 | - Jetpack = 1
+30. July 2010 | 19:19:23 | - HealthHack = 1
+30. July 2010 | 19:19:23 | - ArmourHack = 1
+30. July 2010 | 19:19:23 | - DriveBy = 1
+30. July 2010 | 19:19:23 | - Spam = 0
+30. July 2010 | 19:19:23 | - CommandSpam = 0
+30. July 2010 | 19:19:23 | - BadWords = 0
+30. July 2010 | 19:19:23 | - CarJackHack = 1
+30. July 2010 | 19:19:23 | - TeleportHack = 1
+30. July 2010 | 19:19:23 | - MaxPing = 500
+30. July 2010 | 19:19:23 | - SpectateHack = 0
+30. July 2010 | 19:19:23 | - Blacklist = 1
+30. July 2010 | 19:19:23 | - IpBans = 1
+30. July 2010 | 19:19:23 | - TempBans = 1
+30. July 2010 | 19:19:23 | - SpawnKill = 3
+30. July 2010 | 19:19:23 | - CapsLock = 0
+30. July 2010 | 19:19:23 | - 3DSpeed = 0
+30. July 2010 | 19:19:23 | - MaxSpeed = 220
+30. July 2010 | 19:19:23 | - AdminImmunity = 1
+30. July 2010 | 19:19:23 | - Advertisement = 1
+30. July 2010 | 19:19:23 | - FreezeUpdate = 0
+30. July 2010 | 19:19:23 | - SpawnTime = 10
+30. July 2010 | 19:19:23 | - CheckpointTeleport = 1
+30. July 2010 | 19:19:23 | - Airbreak = 1
+30. July 2010 | 19:19:23 | - TankMode = 1
+30. July 2010 | 19:19:23 | - WarnPlayers = 0
+30. July 2010 | 19:19:23 | 1 IP-bans have been loaded.
+30. July 2010 | 19:19:23 | 1 temporary bans have been loaded.
+30. July 2010 | 19:19:23 | 5 whitelist entries have been loaded.
+30. July 2010 | 19:19:23 | 4 blacklist entries have been loaded.
+30. July 2010 | 19:19:23 | 41 bad words have been loaded.
+30. July 2010 | 19:19:23 | 4 forbidden weapons have been loaded.
+30. July 2010 | 19:19:23 | JunkBuster has been configurated.
+30. July 2010 | 19:19:23 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 19:38:22 | Current JunkBuster configuration:
+18. Septembre 2010 | 19:38:22 | - WeaponHack = 1
+18. Septembre 2010 | 19:38:22 | - MoneyHack = 1
+18. Septembre 2010 | 19:38:22 | - Jetpack = 1
+18. Septembre 2010 | 19:38:22 | - HealthHack = 1
+18. Septembre 2010 | 19:38:22 | - ArmourHack = 1
+18. Septembre 2010 | 19:38:22 | - DriveBy = 1
+18. Septembre 2010 | 19:38:22 | - Spam = 0
+18. Septembre 2010 | 19:38:22 | - CommandSpam = 0
+18. Septembre 2010 | 19:38:22 | - BadWords = 0
+18. Septembre 2010 | 19:38:22 | - CarJackHack = 1
+18. Septembre 2010 | 19:38:22 | - TeleportHack = 1
+18. Septembre 2010 | 19:38:22 | - MaxPing = 500
+18. Septembre 2010 | 19:38:22 | - SpectateHack = 0
+18. Septembre 2010 | 19:38:22 | - Blacklist = 1
+18. Septembre 2010 | 19:38:22 | - IpBans = 1
+18. Septembre 2010 | 19:38:22 | - TempBans = 1
+18. Septembre 2010 | 19:38:22 | - SpawnKill = 3
+18. Septembre 2010 | 19:38:22 | - CapsLock = 0
+18. Septembre 2010 | 19:38:22 | - 3DSpeed = 0
+18. Septembre 2010 | 19:38:22 | - MaxSpeed = 220
+18. Septembre 2010 | 19:38:22 | - AdminImmunity = 1
+18. Septembre 2010 | 19:38:22 | - Advertisement = 1
+18. Septembre 2010 | 19:38:22 | - FreezeUpdate = 0
+18. Septembre 2010 | 19:38:22 | - SpawnTime = 10
+18. Septembre 2010 | 19:38:22 | - CheckpointTeleport = 1
+18. Septembre 2010 | 19:38:22 | - Airbreak = 1
+18. Septembre 2010 | 19:38:22 | - TankMode = 1
+18. Septembre 2010 | 19:38:22 | - WarnPlayers = 0
+18. Septembre 2010 | 19:38:22 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 19:38:22 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 19:38:22 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 19:38:22 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 19:38:22 | 41 bad words have been loaded.
+18. Septembre 2010 | 19:38:22 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 19:38:22 | JunkBuster has been configurated.
+18. Septembre 2010 | 19:38:22 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 19:45:27 | Current JunkBuster configuration:
+18. Septembre 2010 | 19:45:27 | - WeaponHack = 1
+18. Septembre 2010 | 19:45:27 | - MoneyHack = 1
+18. Septembre 2010 | 19:45:27 | - Jetpack = 1
+18. Septembre 2010 | 19:45:27 | - HealthHack = 1
+18. Septembre 2010 | 19:45:27 | - ArmourHack = 1
+18. Septembre 2010 | 19:45:27 | - DriveBy = 1
+18. Septembre 2010 | 19:45:27 | - Spam = 0
+18. Septembre 2010 | 19:45:27 | - CommandSpam = 0
+18. Septembre 2010 | 19:45:27 | - BadWords = 0
+18. Septembre 2010 | 19:45:27 | - CarJackHack = 1
+18. Septembre 2010 | 19:45:27 | - TeleportHack = 1
+18. Septembre 2010 | 19:45:27 | - MaxPing = 500
+18. Septembre 2010 | 19:45:27 | - SpectateHack = 0
+18. Septembre 2010 | 19:45:27 | - Blacklist = 1
+18. Septembre 2010 | 19:45:27 | - IpBans = 1
+18. Septembre 2010 | 19:45:27 | - TempBans = 1
+18. Septembre 2010 | 19:45:27 | - SpawnKill = 3
+18. Septembre 2010 | 19:45:27 | - CapsLock = 0
+18. Septembre 2010 | 19:45:27 | - 3DSpeed = 0
+18. Septembre 2010 | 19:45:27 | - MaxSpeed = 220
+18. Septembre 2010 | 19:45:27 | - AdminImmunity = 1
+18. Septembre 2010 | 19:45:27 | - Advertisement = 1
+18. Septembre 2010 | 19:45:27 | - FreezeUpdate = 0
+18. Septembre 2010 | 19:45:27 | - SpawnTime = 10
+18. Septembre 2010 | 19:45:27 | - CheckpointTeleport = 1
+18. Septembre 2010 | 19:45:27 | - Airbreak = 1
+18. Septembre 2010 | 19:45:27 | - TankMode = 1
+18. Septembre 2010 | 19:45:27 | - WarnPlayers = 0
+18. Septembre 2010 | 19:45:27 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 19:45:27 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 19:45:27 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 19:45:27 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 19:45:27 | 41 bad words have been loaded.
+18. Septembre 2010 | 19:45:27 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 19:45:27 | JunkBuster has been configurated.
+18. Septembre 2010 | 19:45:27 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 19:50:51 | Current JunkBuster configuration:
+18. Septembre 2010 | 19:50:51 | - WeaponHack = 1
+18. Septembre 2010 | 19:50:51 | - MoneyHack = 1
+18. Septembre 2010 | 19:50:51 | - Jetpack = 1
+18. Septembre 2010 | 19:50:51 | - HealthHack = 1
+18. Septembre 2010 | 19:50:51 | - ArmourHack = 1
+18. Septembre 2010 | 19:50:51 | - DriveBy = 1
+18. Septembre 2010 | 19:50:51 | - Spam = 0
+18. Septembre 2010 | 19:50:51 | - CommandSpam = 0
+18. Septembre 2010 | 19:50:51 | - BadWords = 0
+18. Septembre 2010 | 19:50:51 | - CarJackHack = 1
+18. Septembre 2010 | 19:50:51 | - TeleportHack = 1
+18. Septembre 2010 | 19:50:51 | - MaxPing = 500
+18. Septembre 2010 | 19:50:51 | - SpectateHack = 0
+18. Septembre 2010 | 19:50:51 | - Blacklist = 1
+18. Septembre 2010 | 19:50:51 | - IpBans = 1
+18. Septembre 2010 | 19:50:51 | - TempBans = 1
+18. Septembre 2010 | 19:50:51 | - SpawnKill = 3
+18. Septembre 2010 | 19:50:51 | - CapsLock = 0
+18. Septembre 2010 | 19:50:51 | - 3DSpeed = 0
+18. Septembre 2010 | 19:50:51 | - MaxSpeed = 220
+18. Septembre 2010 | 19:50:51 | - AdminImmunity = 1
+18. Septembre 2010 | 19:50:51 | - Advertisement = 1
+18. Septembre 2010 | 19:50:51 | - FreezeUpdate = 0
+18. Septembre 2010 | 19:50:51 | - SpawnTime = 10
+18. Septembre 2010 | 19:50:51 | - CheckpointTeleport = 1
+18. Septembre 2010 | 19:50:51 | - Airbreak = 1
+18. Septembre 2010 | 19:50:51 | - TankMode = 1
+18. Septembre 2010 | 19:50:51 | - WarnPlayers = 0
+18. Septembre 2010 | 19:50:51 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 19:50:51 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 19:50:51 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 19:50:51 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 19:50:51 | 41 bad words have been loaded.
+18. Septembre 2010 | 19:50:51 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 19:50:51 | JunkBuster has been configurated.
+18. Septembre 2010 | 19:50:51 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 19:53:24 | Current JunkBuster configuration:
+18. Septembre 2010 | 19:53:24 | - WeaponHack = 1
+18. Septembre 2010 | 19:53:24 | - MoneyHack = 1
+18. Septembre 2010 | 19:53:24 | - Jetpack = 1
+18. Septembre 2010 | 19:53:24 | - HealthHack = 1
+18. Septembre 2010 | 19:53:24 | - ArmourHack = 1
+18. Septembre 2010 | 19:53:24 | - DriveBy = 1
+18. Septembre 2010 | 19:53:24 | - Spam = 0
+18. Septembre 2010 | 19:53:24 | - CommandSpam = 0
+18. Septembre 2010 | 19:53:24 | - BadWords = 0
+18. Septembre 2010 | 19:53:24 | - CarJackHack = 1
+18. Septembre 2010 | 19:53:24 | - TeleportHack = 1
+18. Septembre 2010 | 19:53:24 | - MaxPing = 500
+18. Septembre 2010 | 19:53:24 | - SpectateHack = 0
+18. Septembre 2010 | 19:53:24 | - Blacklist = 1
+18. Septembre 2010 | 19:53:24 | - IpBans = 1
+18. Septembre 2010 | 19:53:24 | - TempBans = 1
+18. Septembre 2010 | 19:53:24 | - SpawnKill = 3
+18. Septembre 2010 | 19:53:24 | - CapsLock = 0
+18. Septembre 2010 | 19:53:24 | - 3DSpeed = 0
+18. Septembre 2010 | 19:53:24 | - MaxSpeed = 220
+18. Septembre 2010 | 19:53:24 | - AdminImmunity = 1
+18. Septembre 2010 | 19:53:24 | - Advertisement = 1
+18. Septembre 2010 | 19:53:24 | - FreezeUpdate = 0
+18. Septembre 2010 | 19:53:24 | - SpawnTime = 10
+18. Septembre 2010 | 19:53:24 | - CheckpointTeleport = 1
+18. Septembre 2010 | 19:53:24 | - Airbreak = 1
+18. Septembre 2010 | 19:53:24 | - TankMode = 1
+18. Septembre 2010 | 19:53:24 | - WarnPlayers = 0
+18. Septembre 2010 | 19:53:24 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 19:53:24 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 19:53:24 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 19:53:24 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 19:53:24 | 41 bad words have been loaded.
+18. Septembre 2010 | 19:53:24 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 19:53:24 | JunkBuster has been configurated.
+18. Septembre 2010 | 19:53:24 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 19:56:54 | Current JunkBuster configuration:
+18. Septembre 2010 | 19:56:54 | - WeaponHack = 1
+18. Septembre 2010 | 19:56:54 | - MoneyHack = 1
+18. Septembre 2010 | 19:56:54 | - Jetpack = 1
+18. Septembre 2010 | 19:56:54 | - HealthHack = 1
+18. Septembre 2010 | 19:56:54 | - ArmourHack = 1
+18. Septembre 2010 | 19:56:54 | - DriveBy = 1
+18. Septembre 2010 | 19:56:54 | - Spam = 0
+18. Septembre 2010 | 19:56:54 | - CommandSpam = 0
+18. Septembre 2010 | 19:56:54 | - BadWords = 0
+18. Septembre 2010 | 19:56:54 | - CarJackHack = 1
+18. Septembre 2010 | 19:56:54 | - TeleportHack = 1
+18. Septembre 2010 | 19:56:54 | - MaxPing = 500
+18. Septembre 2010 | 19:56:54 | - SpectateHack = 0
+18. Septembre 2010 | 19:56:54 | - Blacklist = 1
+18. Septembre 2010 | 19:56:54 | - IpBans = 1
+18. Septembre 2010 | 19:56:54 | - TempBans = 1
+18. Septembre 2010 | 19:56:54 | - SpawnKill = 3
+18. Septembre 2010 | 19:56:54 | - CapsLock = 0
+18. Septembre 2010 | 19:56:54 | - 3DSpeed = 0
+18. Septembre 2010 | 19:56:54 | - MaxSpeed = 220
+18. Septembre 2010 | 19:56:54 | - AdminImmunity = 1
+18. Septembre 2010 | 19:56:54 | - Advertisement = 1
+18. Septembre 2010 | 19:56:54 | - FreezeUpdate = 0
+18. Septembre 2010 | 19:56:54 | - SpawnTime = 10
+18. Septembre 2010 | 19:56:54 | - CheckpointTeleport = 1
+18. Septembre 2010 | 19:56:54 | - Airbreak = 1
+18. Septembre 2010 | 19:56:54 | - TankMode = 1
+18. Septembre 2010 | 19:56:54 | - WarnPlayers = 0
+18. Septembre 2010 | 19:56:54 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 19:56:54 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 19:56:54 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 19:56:54 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 19:56:54 | 41 bad words have been loaded.
+18. Septembre 2010 | 19:56:54 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 19:56:54 | JunkBuster has been configurated.
+18. Septembre 2010 | 19:56:54 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 19:59:21 | Current JunkBuster configuration:
+18. Septembre 2010 | 19:59:21 | - WeaponHack = 1
+18. Septembre 2010 | 19:59:21 | - MoneyHack = 1
+18. Septembre 2010 | 19:59:21 | - Jetpack = 1
+18. Septembre 2010 | 19:59:21 | - HealthHack = 1
+18. Septembre 2010 | 19:59:21 | - ArmourHack = 1
+18. Septembre 2010 | 19:59:21 | - DriveBy = 1
+18. Septembre 2010 | 19:59:21 | - Spam = 0
+18. Septembre 2010 | 19:59:21 | - CommandSpam = 0
+18. Septembre 2010 | 19:59:21 | - BadWords = 0
+18. Septembre 2010 | 19:59:21 | - CarJackHack = 1
+18. Septembre 2010 | 19:59:21 | - TeleportHack = 1
+18. Septembre 2010 | 19:59:21 | - MaxPing = 500
+18. Septembre 2010 | 19:59:21 | - SpectateHack = 0
+18. Septembre 2010 | 19:59:21 | - Blacklist = 1
+18. Septembre 2010 | 19:59:21 | - IpBans = 1
+18. Septembre 2010 | 19:59:21 | - TempBans = 1
+18. Septembre 2010 | 19:59:21 | - SpawnKill = 3
+18. Septembre 2010 | 19:59:21 | - CapsLock = 0
+18. Septembre 2010 | 19:59:21 | - 3DSpeed = 0
+18. Septembre 2010 | 19:59:21 | - MaxSpeed = 220
+18. Septembre 2010 | 19:59:21 | - AdminImmunity = 1
+18. Septembre 2010 | 19:59:21 | - Advertisement = 1
+18. Septembre 2010 | 19:59:21 | - FreezeUpdate = 0
+18. Septembre 2010 | 19:59:21 | - SpawnTime = 10
+18. Septembre 2010 | 19:59:21 | - CheckpointTeleport = 1
+18. Septembre 2010 | 19:59:21 | - Airbreak = 1
+18. Septembre 2010 | 19:59:21 | - TankMode = 1
+18. Septembre 2010 | 19:59:21 | - WarnPlayers = 0
+18. Septembre 2010 | 19:59:21 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 19:59:21 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 19:59:21 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 19:59:21 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 19:59:21 | 41 bad words have been loaded.
+18. Septembre 2010 | 19:59:21 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 19:59:21 | JunkBuster has been configurated.
+18. Septembre 2010 | 19:59:21 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 20:03:12 | Current JunkBuster configuration:
+18. Septembre 2010 | 20:03:12 | - WeaponHack = 1
+18. Septembre 2010 | 20:03:12 | - MoneyHack = 1
+18. Septembre 2010 | 20:03:12 | - Jetpack = 1
+18. Septembre 2010 | 20:03:12 | - HealthHack = 1
+18. Septembre 2010 | 20:03:12 | - ArmourHack = 1
+18. Septembre 2010 | 20:03:12 | - DriveBy = 1
+18. Septembre 2010 | 20:03:12 | - Spam = 0
+18. Septembre 2010 | 20:03:12 | - CommandSpam = 0
+18. Septembre 2010 | 20:03:12 | - BadWords = 0
+18. Septembre 2010 | 20:03:12 | - CarJackHack = 1
+18. Septembre 2010 | 20:03:12 | - TeleportHack = 1
+18. Septembre 2010 | 20:03:12 | - MaxPing = 500
+18. Septembre 2010 | 20:03:12 | - SpectateHack = 0
+18. Septembre 2010 | 20:03:12 | - Blacklist = 1
+18. Septembre 2010 | 20:03:12 | - IpBans = 1
+18. Septembre 2010 | 20:03:12 | - TempBans = 1
+18. Septembre 2010 | 20:03:12 | - SpawnKill = 3
+18. Septembre 2010 | 20:03:12 | - CapsLock = 0
+18. Septembre 2010 | 20:03:12 | - 3DSpeed = 0
+18. Septembre 2010 | 20:03:12 | - MaxSpeed = 220
+18. Septembre 2010 | 20:03:12 | - AdminImmunity = 1
+18. Septembre 2010 | 20:03:12 | - Advertisement = 1
+18. Septembre 2010 | 20:03:12 | - FreezeUpdate = 0
+18. Septembre 2010 | 20:03:12 | - SpawnTime = 10
+18. Septembre 2010 | 20:03:12 | - CheckpointTeleport = 1
+18. Septembre 2010 | 20:03:12 | - Airbreak = 1
+18. Septembre 2010 | 20:03:12 | - TankMode = 1
+18. Septembre 2010 | 20:03:12 | - WarnPlayers = 0
+18. Septembre 2010 | 20:03:12 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 20:03:12 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 20:03:12 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 20:03:12 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 20:03:12 | 41 bad words have been loaded.
+18. Septembre 2010 | 20:03:12 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 20:03:12 | JunkBuster has been configurated.
+18. Septembre 2010 | 20:03:12 | JunkBuster has successfully been loaded.
+18. Septembre 2010 | 20:06:18 | Suspected player with teleport cheats: Markus_Dick (0), Jefferson.
+18. Septembre 2010 | 20:06:44 | Suspected player with speedhack: Markus_Dick (0), 317 KM/H with Mountain Bike.
+18. Septembre 2010 | 20:06:52 | Suspected player with speedhack: Markus_Dick (0), 317 KM/H with Mountain Bike.
+18. Septembre 2010 | 22:29:47 | Current JunkBuster configuration:
+18. Septembre 2010 | 22:29:47 | - WeaponHack = 1
+18. Septembre 2010 | 22:29:47 | - MoneyHack = 1
+18. Septembre 2010 | 22:29:47 | - Jetpack = 1
+18. Septembre 2010 | 22:29:47 | - HealthHack = 1
+18. Septembre 2010 | 22:29:47 | - ArmourHack = 1
+18. Septembre 2010 | 22:29:47 | - DriveBy = 1
+18. Septembre 2010 | 22:29:47 | - Spam = 0
+18. Septembre 2010 | 22:29:47 | - CommandSpam = 0
+18. Septembre 2010 | 22:29:47 | - BadWords = 0
+18. Septembre 2010 | 22:29:47 | - CarJackHack = 1
+18. Septembre 2010 | 22:29:47 | - TeleportHack = 1
+18. Septembre 2010 | 22:29:47 | - MaxPing = 500
+18. Septembre 2010 | 22:29:47 | - SpectateHack = 0
+18. Septembre 2010 | 22:29:47 | - Blacklist = 1
+18. Septembre 2010 | 22:29:47 | - IpBans = 1
+18. Septembre 2010 | 22:29:47 | - TempBans = 1
+18. Septembre 2010 | 22:29:47 | - SpawnKill = 3
+18. Septembre 2010 | 22:29:47 | - CapsLock = 0
+18. Septembre 2010 | 22:29:47 | - 3DSpeed = 0
+18. Septembre 2010 | 22:29:47 | - MaxSpeed = 220
+18. Septembre 2010 | 22:29:47 | - AdminImmunity = 1
+18. Septembre 2010 | 22:29:47 | - Advertisement = 1
+18. Septembre 2010 | 22:29:47 | - FreezeUpdate = 0
+18. Septembre 2010 | 22:29:47 | - SpawnTime = 10
+18. Septembre 2010 | 22:29:47 | - CheckpointTeleport = 1
+18. Septembre 2010 | 22:29:47 | - Airbreak = 1
+18. Septembre 2010 | 22:29:47 | - TankMode = 1
+18. Septembre 2010 | 22:29:47 | - WarnPlayers = 0
+18. Septembre 2010 | 22:29:47 | 1 IP-bans have been loaded.
+18. Septembre 2010 | 22:29:47 | 1 temporary bans have been loaded.
+18. Septembre 2010 | 22:29:47 | 5 whitelist entries have been loaded.
+18. Septembre 2010 | 22:29:47 | 4 blacklist entries have been loaded.
+18. Septembre 2010 | 22:29:47 | 41 bad words have been loaded.
+18. Septembre 2010 | 22:29:47 | 4 forbidden weapons have been loaded.
+18. Septembre 2010 | 22:29:47 | JunkBuster has been configurated.
+18. Septembre 2010 | 22:29:47 | JunkBuster has successfully been loaded.

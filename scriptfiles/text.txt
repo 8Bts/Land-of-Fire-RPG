@@ -1,0 +1,23 @@
+//TextDraw developed using Zamaroht's in-game TextDraw system
+ 
+//On top of script:
+new Text:Textdraw0;
+ 
+//In OnGameModeInit or any other place, we procced to create our textdraw:
+Textdraw0 = TextDrawCreate(20.000000,324.000000,"~r~www.~w~crime-streets~r~.ru");
+TextDrawUseBox(Textdraw0,1);
+TextDrawBoxColor(Textdraw0,0x00000033);
+TextDrawTextSize(Textdraw0,152.000000,-5.000000);
+TextDrawAlignment(Textdraw0,0);
+TextDrawBackgroundColor(Textdraw0,0x000000ff);
+TextDrawFont(Textdraw0,2);
+TextDrawLetterSize(Textdraw0,0.299999,1.000002);
+TextDrawColor(Textdraw0,0xffffffff);
+TextDrawSetOutline(Textdraw0,1);
+TextDrawSetProportional(Textdraw0,1);
+TextDrawSetShadow(Textdraw0,1);
+ 
+//You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+//TextDrawDestroy functions to show, hide, and destroy the textdraw.
+ 
+ 

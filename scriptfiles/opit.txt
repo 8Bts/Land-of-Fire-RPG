@@ -1,0 +1,45 @@
+//TextDraw developed using Zamaroht's in-game TextDraw system
+ 
+//On top of script:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+ 
+//In OnGameModeInit or any other place, we procced to create our textdraw:
+
+Textdraw0 = TextDrawCreate(600.000000,5.000000,"I");
+TextDrawAlignment(Textdraw0,0);
+TextDrawBackgroundColor(Textdraw0,0x000000ff);
+TextDrawFont(Textdraw0,2);
+TextDrawLetterSize(Textdraw0,0.599999,2.000000);
+TextDrawColor(Textdraw0,0xffffffff);
+TextDrawSetOutline(Textdraw0,1);
+TextDrawSetProportional(Textdraw0,1);
+TextDrawSetShadow(Textdraw0,1);
+
+
+Textdraw1 = TextDrawCreate(594.000000,11.000000,"I");
+TextDrawAlignment(Textdraw1,0);
+TextDrawBackgroundColor(Textdraw1,0x000000ff);
+TextDrawFont(Textdraw1,2);
+TextDrawLetterSize(Textdraw1,0.599999,1.200000);
+TextDrawColor(Textdraw1,0xffffffff);
+TextDrawSetOutline(Textdraw1,1);
+TextDrawSetProportional(Textdraw1,1);
+TextDrawSetShadow(Textdraw1,1);
+
+
+Textdraw2 = TextDrawCreate(588.000000,11.000000,"I");
+TextDrawAlignment(Textdraw2,0);
+TextDrawBackgroundColor(Textdraw2,0x000000ff);
+TextDrawSetProportional(Textdraw2,1);
+TextDrawFont(Textdraw2,2);
+TextDrawLetterSize(Textdraw2,0.599999,1.200000);
+TextDrawColor(Textdraw2,0xffffffff);
+TextDrawSetOutline(Textdraw2,1);
+TextDrawSetShadow(Textdraw2,1);
+ 
+//You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+//TextDrawDestroy functions to show, hide, and destroy the textdraw.
+ 
+ 
